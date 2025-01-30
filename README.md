@@ -11,6 +11,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
-
-Add your ideas here :)
+Here are some enhancements I'd like to implement in future versions:  
+- **More Animations ** – Apply subtle hover animations to buttons and cards for a smoother UX.  
+- **Mobile-Friendly Enhancements ** – Improve text readability and spacing on smaller screens.  
+ 
