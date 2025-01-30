@@ -36,6 +36,7 @@
   line-height: 20px;
   background-color: #0066ff;
   transition: background-color 0.5s;
+  color: #1878dc;
 }
 
 .form__button:hover {
